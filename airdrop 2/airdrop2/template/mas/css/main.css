@@ -2,6 +2,76 @@
     color: #666;
     opacity: 1
 }
+main{
+    margin-top: 150px;
+}
+main .blogh{
+  font-size: 28px;
+  font-family: "Metropolis-Regular";
+  color: rgb( 24, 26, 40 );
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.286;
+  text-align: center;
+
+
+}
+main .blogh + p{
+    
+    font-family: "Metropolis-Regular";
+  color: rgb( 85, 85, 85 );
+  line-height: 2.667;
+  text-align: center;
+
+
+}
+main img{
+    border-radius: 5px;
+}
+main .rowsimg{
+    margin-bottom: 40px;
+}
+main .blogp, main .bloga{
+
+  font-family: "Metropolis-Regular";
+  margin-left: 20px;
+  margin-right: 20px;
+}
+main .blogp{
+  font-size: 20px;
+  color: rgb( 24, 26, 40 );
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: left;
+  max-width: 100%;
+  margin-top: 10px;
+
+
+}
+main a.bloga{
+  font-size: 14px;
+  color: rgb( 92, 77, 172 );
+  text-decoration: underline;
+  line-height: 2.857;
+  text-align: left;
+  text-transform: lowercase;
+  text-decoration: none;
+  font-weight: normal;
+}
+main span.blogspan{
+  font-size: 14px;
+  font-family: "Metropolis-Regular";
+  color: rgb( 138, 155, 166 );
+  line-height: 1.714;
+  text-align: left;
+  float: right;
+  font-weight: normal;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+
 
 .alert-danger {
     color: #ff0000;
