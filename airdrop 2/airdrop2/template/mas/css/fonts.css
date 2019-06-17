@@ -1,0 +1,51 @@
+/*@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			 url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}*/
+
+@font-face {
+	font-family: "Metropolis-Regular";
+	src: url("../fonts/Metropolis/Metropolis-Regular.eot");
+	src: url("../fonts/Metropolis/Metropolis-Regular.eot%3F") format("embedded-opentype"),
+			 url("../fonts/Metropolis/Metropolis-Regular.woff") format("woff"),
+			 url("../fonts/Metropolis/Metropolis-Regular.woff2") format("woff2"),
+			 url("../fonts/Metropolis/Metropolis-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Metropolis-Bold";
+	src: url("../fonts/Metropolis/Metropolis-Bold.eot");
+	src: url("../fonts/Metropolis/Metropolis-Bold.eot%3F") format("embedded-opentype"),
+			 url("../fonts/Metropolis/Metropolis-Bold.woff") format("woff"),
+			 url("../fonts/Metropolis/Metropolis-Bold.woff2") format("woff2"),
+			 url("../fonts/Metropolis/Metropolis-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 700;
+}
+@font-face {
+	font-family: "Metropolis-ExtraLight";
+	src: url("../fonts/Metropolis/Metropolis-ExtraLight.eot");
+	src: url("../fonts/Metropolis/Metropolis-ExtraLight.eot%3F") format("embedded-opentype"),
+			 url("../fonts/Metropolis/Metropolis-ExtraLight.woff") format("woff"),
+			 url("../fonts/Metropolis/Metropolis-ExtraLight.woff2") format("woff2"),
+			 url("../fonts/Metropolis/Metropolis-ExtraLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 200;
+}
+
+@font-face {
+	font-family: "Metropolis-Thin";
+	src: url("../fonts/Metropolis/Metropolis-Thin.eot");
+	src: url("../fonts/Metropolis/Metropolis-Thin.eot%3F") format("embedded-opentype"),
+			 url("../fonts/Metropolis/Metropolis-Thin.woff") format("woff"),
+			 url("../fonts/Metropolis/Metropolis-Thin.woff2") format("woff2"),
+			 url("../fonts/Metropolis/Metropolis-Thin.ttf") format("truetype");
+	font-style: normal;
+	font-weight: 100;
+}

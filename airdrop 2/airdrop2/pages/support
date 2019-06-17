@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="ie ie6" lang="en"></html><![endif]-->
+<!--[if IE 7]><html class="ie ie7" lang="en"></html><![endif]-->
+<!--[if IE 8]><html class="ie ie8" lang="en"></html><![endif]-->
+<!-- [if (gte IE 9)|!(IE)]><! -->
+<html lang="en">
+  <!-- <![endif] -->
+
+  <head>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJDW6JL');</script>
+    <meta charset="utf-8" />
+
+    <title>Your own free airdrop website in minutes | Support @ MyAirdropSite</title>
+
+    <link
+      rel="shortcut icon"
+      href="https://myairdropsite.com/favicon.ico"
+      type="image/x-icon"
+    />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <meta name="theme-color" content="#5c4dac" />
+
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/libs/bootstrap/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/libs/animate/animate.css" />
+    <!-- <link rel="stylesheet" href="css/jquery-ui.min.css" /> -->
+
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/css/fonts.css" />
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/css/main.css" />
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/css/media.css" />
+
+    <script src="https://myairdropsite.com/template/mas/libs/modernizr/modernizr.js"></script>
+    <meta name="title" content="Your own free airdrop website in minutes | MyAirdropSite">
+    <meta name="description" content="Make an airdrop site in minutes. Start earning money with your own cryptocurrency airdrop/bounty website. Earn free crypto tokens.">
+    <meta name="keywords" content="free airdrops, free airdrop website">
+  </head>
+
+  <body class="page-faq">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJDW6JL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <header class="top_header  ">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3">
+            <a class="td-none" href="https://myairdropsite.com"
+              ><div class="logo">MY<span>Airdrop</span>Site <span style="font-size:14px">beta</span></div></a
+            >
+          </div>
+          <!-- <div class="col-xs-3 col-xs-push-6 d-lg-none d-md-none ">
+            <div class="pull-right">
+              <span class="badge badge-primary">beta</span>
+
+            </div>
+          </div> -->
+          <div class="col-xs-12 col-sm-9">
+            <nav class="top_nav">
+              <ul>
+                <li><a class="default" href="https://myairdropsite.com/pages/faqs">FAQ</a></li>
+                                      <li><a class="default" href="https://myairdropsite.com/login">LOGIN</a></li>
+                    <li><a class="default default" href="https://myairdropsite.com/register">JOIN NOW</a></li>
+                                </ul>
+            </nav>
+          </div>
+        </div>
+        <!-- <div class="row">
+
+          <div class="d-none d-sm-block  col-md-4">
+            <div class="text-center">
+              <span class="badge badge-primary">beta</span>
+
+            </div>
+          </div>
+        </div> -->
+      </div>
+    </header>
+
+  
+<section class="sect-support">
+      <div class="container">
+        <div class="row">
+          <div class="col-12"><h2 class="text-center">SUPPORT</h2></div>
+        </div>
+        <div class="row">
+          <div class="col-lg-10 col-lg-push-1">
+            <div class="wrap-in">
+              <div class="item">
+                <div class="icon window-with-side-bar-selection">
+                  <div class="dt">
+                    <div class="dtc">
+                      <img
+                        src="https://myairdropsite.com/template/mas/img/email.svg"
+                        alt="window-with-side-bar-selection"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <h3>EMAIL</h3>
+                <p>
+                  <a href="mailto:support@myairdropsite.com"
+                    >support@myairdropsite.com</a
+                  >
+                </p>
+              </div>
+              <div class="item">
+                <div class="icon window-with-side-bar-selection">
+                  <div class="dt">
+                    <div class="dtc">
+                      <img
+                        src="https://myairdropsite.com/template/mas/img/telegram.svg"
+                        alt="window-with-side-bar-selection"
+                      />
+                    </div>
+                  </div>
+                </div>
+                <h3>TELEGRAM</h3>
+                <p>
+                  <a href="https://t.me/MyAirdropSite"
+                    >https://t.me/MyAirdropSite</a
+                  >
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+  <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-3 col-sm-4 col-md-push-4">
+            <nav class="footer_nav nav1">
+              <ul>
+                <li><a href="https://myairdropsite.com/pages/terms-of-use">Term of use</a></li>
+                <li><a href="https://myairdropsite.com/pages/privacy-policy">Privacy Policy</a></li>
+                <li><a href="https://myairdropsite.com/pages/support">Support</a></li>
+              </ul>
+            </nav>
+          </div>
+          <div class="col-xs-12 col-md-3 col-sm-4 col-md-push-4">
+            <nav class="footer_nav nav2">
+              <ul>
+                <li><a href="https://myairdropsite.com/pages/faqs">FAQ</a></li>
+                <li><a href="https://myairdropsite.com/pages/airdrop-submit">Submit your airdrop</a></li>
+
+              </ul>
+            </nav>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-md-4 col-md-pull-6">
+            <div class="footer_logo">
+              <a href="https://myairdropsite.com">MY<span>Airdrop</span>Site</a>
+              <p class="logo_description">© 2018-2019 . All right reserved</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="hidden"></div>
+
+    <div class="loader"><div class="loader_inner"></div></div>
+
+    <!--[if lt IE 9]>
+      <script src="libs/html5shiv/es5-shim.min.js"></script>
+      <script src="libs/html5shiv/html5shiv.min.js"></script>
+      <script src="libs/html5shiv/html5shiv-printshiv.min.js"></script>
+      <script src="libs/respond/respond.min.js"></script>
+    <![endif]-->
+
+<script src="https://myairdropsite.com/template/mas/libs/jquery/jquery-1.11.2.min.js"></script>
+    <script src="https://myairdropsite.com/template/mas/libs/waypoints/waypoints.min.js"></script>
+    <script src="https://myairdropsite.com/template/mas/libs/animate/animate-css.js"></script>
+    <script src="https://myairdropsite.com/template/mas/libs/plugins-scroll/plugins-scroll.js"></script>
+    <script src="https://myairdropsite.com/template/mas/js/wow.min.js"></script>
+    <script src="https://myairdropsite.com/template/mas/js/jquery-ui.min.js"></script>
+
+    <script src="https://myairdropsite.com/template/mas/js/common.js"></script>
+<!--Start of Tawk.to Script-->
+<!-- <script type="text/javascript"> var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date(); (function(){ var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0]; s1.async=true; s1.src='https://embed.tawk.to/5bf056e679ed6453cca9e5bb/default'; s1.charset='UTF-8'; s1.setAttribute('crossorigin','*'); s0.parentNode.insertBefore(s1,s0); })(); </script> -->
+<!--End of Tawk.to Script-->
+  </body>
+</html>

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="ie ie6" lang="en"></html><![endif]-->
+<!--[if IE 7]><html class="ie ie7" lang="en"></html><![endif]-->
+<!--[if IE 8]><html class="ie ie8" lang="en"></html><![endif]-->
+<!-- [if (gte IE 9)|!(IE)]><! -->
+<html lang="en">
+  <!-- <![endif] -->
+
+  <head>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJDW6JL');</script>
+    <meta charset="utf-8" />
+
+    <title>Password Reset @ MyAirdropSite</title>
+
+    <link
+      rel="shortcut icon"
+      href="https://myairdropsite.com/favicon.ico"
+      type="image/x-icon"
+    />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <meta name="theme-color" content="#5c4dac" />
+
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/libs/bootstrap/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/libs/animate/animate.css" />
+    <!-- <link rel="stylesheet" href="css/jquery-ui.min.css" /> -->
+
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/css/fonts.css" />
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/css/main.css" />
+    <link rel="stylesheet" href="https://myairdropsite.com/template/mas/css/media.css" />
+
+    <script src="https://myairdropsite.com/template/mas/libs/modernizr/modernizr.js"></script>
+    <meta name="title" content="Your own free airdrop website in minutes | MyAirdropSite">
+    <meta name="description" content="Make an airdrop site in minutes. Start earning money with your own cryptocurrency airdrop/bounty website. Earn free crypto tokens.">
+    <meta name="keywords" content="free airdrops, free airdrop website">
+  </head>
+
+  <body class="page-login">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJDW6JL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <header class="top_header  ">
+      <div class="container">
+        <div class="row">
+          <div class=" col-sm-4 col-sm-push-4">
+            <a class="td-none text-center" href="https://myairdropsite.com">
+              <div class="logo">MY<span>Airdrop</span>Site <span style="font-size:14px">beta</span>
+
+              </div>
+
+            </a>
+          </div>
+        </div>
+        <!-- <div class="row">
+          <div class="col-xs-3 col-xs-push-6 d-lg-none d-md-none ">
+            <div class="pull-right">
+              <span class="badge badge-primary">beta</span>
+
+            </div>
+          </div>
+          <div class="d-none d-sm-block  col-md-4 col-md-push-5 col-xs-3 col-xs-push-6">
+            <div class="text-center">
+              <span class="badge badge-primary">beta</span>
+
+            </div>
+          </div>
+        </div> -->
+      </div>
+    </header>
+
+    <section class="sect-login">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="wrap-in">
+              <h2 class="text-center">Reset Password</h2><br>
+              <!-- <p class="text-center">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry.
+              </p> -->
+              <form class="sign-form" method="POST" action="https://myairdropsite.com/password/email">
+                <input type="hidden" name="_token" value="Klgw1xGm0g5ECazH7C1ArdbbFQ34abvjxzwTbHe2">
+                        
+                                        <input
+                  class="input"
+                  type="email"
+                  name="email"
+                  placeholder="Email"
+                  value=""
+                />
+                <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<div id="_g-recaptcha"></div>
+<div class="g-recaptcha" data-sitekey="6Lflf3oUAAAAAGI9sWfvjypMB5st9AuKeb36C_QI" data-size="invisible" data-callback="_submitForm" data-badge="bottomright"></div><script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>var _submitForm,_captchaForm,_captchaSubmit,_execute=true;</script><script>window.addEventListener('load', _loadCaptcha);
+function _loadCaptcha(){_captchaForm=document.querySelector("#_g-recaptcha").closest("form");_captchaSubmit=_captchaForm.querySelector('[type=submit]');_submitForm=function(){if(typeof _submitEvent==="function"){_submitEvent();grecaptcha.reset();}else{_captchaForm.submit();}};_captchaForm.addEventListener('submit',function(e){e.preventDefault();if(typeof _beforeSubmit==='function'){_execute=_beforeSubmit(e);}if(_execute){grecaptcha.execute();}});}</script>
+                <button class="btn" type="submit">RESET</button>
+
+              </form>
+            </div>
+            <div class="text-center question text-white">
+              Done? <a class="text-white" href="https://myairdropsite.com/login">Sign Back In</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-4 col-md-4 col-md-push-4 col-sm-push-4">
+              <div class="footer_logo">
+                <a href="https://myairdropsite.com">MY<span>Airdrop</span>Site</a>
+                <p class="logo_description">© 2018 . All right reserved</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+    <div class="hidden"></div>
+
+    <div class="loader"><div class="loader_inner"></div></div>
+
+    <!--[if lt IE 9]>
+      <script src="libs/html5shiv/es5-shim.min.js"></script>
+      <script src="libs/html5shiv/html5shiv.min.js"></script>
+      <script src="libs/html5shiv/html5shiv-printshiv.min.js"></script>
+      <script src="libs/respond/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="https://myairdropsite.com/template/mas/libs/jquery/jquery-1.11.2.min.js"></script>
+    <script src="https://myairdropsite.com/template/mas/libs/waypoints/waypoints.min.js"></script>
+    <script src="https://myairdropsite.com/template/mas/libs/animate/animate-css.js"></script>
+    <script src="https://myairdropsite.com/template/mas/libs/plugins-scroll/plugins-scroll.js"></script>
+    <script src="https://myairdropsite.com/template/mas/js/wow.min.js"></script>
+    <script src="https://myairdropsite.com/template/mas/js/jquery-ui.min.js"></script>
+
+    <script src="https://myairdropsite.com/template/mas/js/common.js"></script>
+
+      </body>
+</html>

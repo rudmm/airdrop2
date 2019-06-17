@@ -1,0 +1,260 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1199px) {
+  h2.lead,
+  main.main h1 {
+    line-height: 1.2;
+  }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 991px) {
+  h4 {
+    font-size: 16px;
+  }
+  .about .left h4 span {
+    font-size: 66px;
+  }
+  .how_it_works .item h3 {
+    clear: both;
+  }
+  .sect-support .item {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+  }
+  .sect-support .item:not(:last-of-type) {
+    margin-bottom: 40px;
+  }
+  .sect-support .item h3 {
+    margin-top: 10px;
+  }
+  .sect-support .item .icon {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .sect-support .wrap-in {
+    padding: 110px 0 180px;
+  }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  /*Disable Animation on Mobile Devices*/
+  .animated {
+    /*CSS transitions*/
+    -o-transition-property: none !important;
+    -moz-transition-property: none !important;
+    -ms-transition-property: none !important;
+    -webkit-transition-property: none !important;
+    transition-property: none !important;
+    /*CSS transforms*/
+    -o-transform: none !important;
+    -moz-transform: none !important;
+    -ms-transform: none !important;
+    -webkit-transform: none !important;
+    transform: none !important;
+    /*CSS animations*/
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    -o-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .top_header {
+    position: relative;
+  }
+  .top_header .top_nav {
+    text-align: center;
+    max-width: 200px;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .top_header .top_nav ul li {
+    display: inline-block;
+    float: none;
+    margin: 15px 15px;
+  }
+  .top_header .top_nav ul li:not(:first-child) {
+    margin-left: 15px;
+  }
+  .top_header .logo {
+    text-align: center;
+  }
+  main.main {
+    padding: 30px 0;
+  }
+  h1 {
+    font-size: 30px;
+    line-height: 1.1;
+    margin-top: 20px;
+  }
+  h2.lead {
+    font-size: 26px;
+  }
+  h4 {
+    font-size: 18px;
+  }
+  main.main p.lead {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  main.main .btn.lead {
+    padding: 15px 45px;
+    max-width: 100%;
+    width: 100%;
+  }
+  .top_header.scroll {
+    background-color: #fcfcfb;
+  }
+  .top_header {
+    background-color: #fcfcfb;
+  }
+  .top_header.shadow {
+    box-shadow: none;
+  }
+  main.main {
+    -webkit-background-size: 1400px auto;
+    background-size: 1400px auto;
+    background-position: 18% -75%;
+  }
+  .about {
+    padding: 95px 0;
+  }
+  .about .left h4 {
+    font-size: 15px;
+    margin-top: 0;
+  }
+  .about .left h4 span {
+    font-size: 63px;
+  }
+  .how_it_works .item h3 {
+    clear: none;
+  }
+  .how_it_works .item .number {
+    width: 135px;
+  }
+  .how_it_works .item p {
+    font-size: 14px;
+  }
+  .footer {
+    text-align: center;
+  }
+  .footer .footer_nav {
+    display: block;
+  }
+  .footer .footer_nav ul {
+    display: block;
+  }
+  .footer .footer_nav ul li {
+    padding-top: 16px;
+    display: block;
+  }
+  .footer .footer_logo {
+    margin-top: 55px;
+  }
+  .about #about {
+    top: 100px;
+  }
+  .sect-privacy-policy .wrap-in {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  body:not(.home) .footer .footer_logo {
+    margin-top: 0;
+  }
+  .sect-privacy-policy {
+    padding-top: 120px;
+  }
+  .sect-support {
+    padding-top: 140px;
+  }
+  .sect-post .img-responsie {
+    margin: 15px 0;
+  }
+  .sect-login .wrap-in {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .sect-login .wrap-in h2 {
+    font-size: 20px;
+  }
+  .sect-login {
+    padding-bottom: 220px;
+    margin-top: 180px;
+  }
+  .sect-faq {
+    padding-top: 80px;
+  }
+  .sect-support .wrap-in {
+    padding: 50px 0 40px;
+  }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+  /* .sect-login .sign-form .forgot-password {
+    font-size: 11px;
+  } */
+  .sect-login .sign-form .forgot-password a {
+    display: block;
+  }
+  .sect-faq .ui-accordion-header {
+    font-size: 15px;
+  }
+  .sect-faq {
+    padding-bottom: 40px;
+    padding-top: 65px;
+  }
+  .sect-privacy-policy {
+    padding-top: 45px;
+  }
+  .sect-support {
+    padding-top: 45px;
+  }
+  .sect-login {
+    margin-top: 120px;
+  }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width: 360px) {
+  .about .left h4 {
+    font-size: 13px;
+  }
+  .about .left h4 span {
+    font-size: 55px;
+  }
+  .sect-faq .ui-accordion-header {
+    font-size: 13px;
+  }
+}
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 320px) {
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width: 768px) {
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width: 1200px) {
+}
