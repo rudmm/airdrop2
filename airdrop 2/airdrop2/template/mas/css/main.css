@@ -70,8 +70,36 @@ main span.blogspan{
   margin-top: 10px;
   margin-right: 20px;
 }
+main .pages{
+    text-align: center; 
+    margin: 50px 0;
+}
+main .pages a{
+
+  font-size: 18px;
+  font-family: "Metropolis-Regular";
+  color: rgb( 92, 77, 172 );
+  line-height: 2.222;
+  text-decoration: none;
+}
+main .pages .prev{
+    margin-right: 20px;
+}
+main .pages .next{
+    margin-left: 20px;
+}
+main .pages span a{
+    padding: 10px 15px;
+    background: #cdd7f9;
+  font-size: 18px;
+  font-family: "Metropolis-Regular";
+  color: rgb( 24, 26, 40 );
+  line-height: 2.222;
+  margin: 0 10px;
+  border-radius: 5px;
 
 
+}
 
 .alert-danger {
     color: #ff0000;
