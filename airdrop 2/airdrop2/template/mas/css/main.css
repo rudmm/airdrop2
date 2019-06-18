@@ -30,6 +30,10 @@ main img{
 }
 main .rowsimg{
     margin-bottom: 40px;
+
+}
+main .rowsimg div a{
+text-decoration: none;
 }
 main .blogp, main .bloga{
 
@@ -70,6 +74,71 @@ main span.blogspan{
   margin-top: 10px;
   margin-right: 20px;
 }
+main .hot{
+  font-size: 14px;
+  font-family: "Metropolis-Bold";
+  color: rgb( 255, 255, 255 );
+  font-weight: 700;
+  line-height: 1.714;
+  border-radius: 4px;
+  background-color: rgb( 237, 80, 19 );
+  width: 87px;
+  height: 29px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  position: absolute;
+  float: right;
+  top: 10px;
+  right: 5px;
+
+
+}
+main .recommended{
+  font-size: 14px;
+  font-family: "Metropolis-Bold";
+  color: rgb( 255, 255, 255 );
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1.714;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #3cb75f;
+  border-radius: 4px;
+  background-color: rgb( 60, 183, 95 );
+  position: absolute;
+  top:10px;
+  right: 5px;
+  width: 129px;
+  height: 29px;
+
+}
+main .featured{
+  font-size: 14px;
+  font-family: "Metropolis-Bold";
+  color: rgb( 255, 255, 255 );
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  top:10px;
+  right: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #3282bf;
+  border-radius: 4px;
+  background-color: rgb( 10, 109, 178 );
+  width: 92px;
+  height: 29px;
+}
+
+
+
 main .pages{
     text-align: center; 
     margin: 50px 0;
